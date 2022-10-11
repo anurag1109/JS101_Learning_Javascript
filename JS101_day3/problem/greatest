@@ -1,0 +1,4 @@
+const num1=1224;
+const num2=895;
+const num3=364;
+num1>num2?(num1>num3?console.log(num1):console.log(num3)):(num2>num3?console.log(num2):console.log(num3));

@@ -1,0 +1,2 @@
+const char ='r';
+char==('a'||'e'||'i'||'o'||'u')?console.log('Vowel'):console.log('Consonant');

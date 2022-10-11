@@ -1,0 +1,15 @@
+const day1='sun';
+const day2='mon';
+const day3='tue';
+const day4='wed';
+const day5='thu';
+const day6='fri';
+const day7='sat';
+
+console.log(day1+'day');
+console.log(day2+'day');
+console.log(day3+'sday');
+console.log(day4+'nesday');
+console.log(day5+'rsday');
+console.log(day6+'day');
+console.log(day7+'urday');
