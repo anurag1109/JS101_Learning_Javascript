@@ -1,0 +1,15 @@
+given_id='pqr@gmail.com';
+given_pass='123@abc';
+
+user_id='pqr@gmail.com';
+user_pass='123@pqr';
+
+if(given_id===user_id){
+  if(given_pass===user_pass){
+console.log('you can log in')
+  }
+else
+console.log('wrong pass')
+}
+else
+console.log('wrong credentials')

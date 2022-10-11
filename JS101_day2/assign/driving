@@ -1,0 +1,5 @@
+let age=2;
+if(age>18)
+console.log('Apply for driving license')
+else
+console.log('wait till you get 18')
